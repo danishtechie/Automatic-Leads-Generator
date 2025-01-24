@@ -30,15 +30,15 @@ Automatic Lead Generator is a web application designed to scrape, enrich, and ma
 
 ## Requirements
 
-- **chromedriver(front-end automation)
+- **chromedriver(front-end automation): Download it correctly according to your chrome version and place it in the project directory
 - **Python:** 3.8+
 - **Libraries/Frameworks:**
   - Flask (Web application framework)
-  - Selenium (Frontend automation)
+  - Selenium (Frontend automation): I used wikipedia for searching queries , you can choose your own.
   - Plotly (Data visualization)
   - Prometheus Client (Monitoring metrics)
   - SQLite3 (Database)
-
+******* Get your Api's and place them carefully in the config.py********
 ---
 
 ## Installation
