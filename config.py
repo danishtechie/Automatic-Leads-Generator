@@ -1,8 +1,8 @@
 
 # API Keys directly inserted (Replace with your actual API keys)
-GOOGLE_API_KEY = 'AIzaSyDjWujHSjJh1Gl_tCq78YzR1SQaZzoWmMI'
-GOOGLE_CX = "a2711dddf84af420f"
-CRUNCHBASE_API_KEY = '42c8c311fbba49a4ab09e5736c9296fd'
+GOOGLE_API_KEY = ' your google API key'
+GOOGLE_CX = "your google search engine CX"
+CRUNCHBASE_API_KEY = 'your crunchbase API key'
 
 # Base URLs
 GOOGLE_API_URL = "https://www.googleapis.com/customsearch/v1"
